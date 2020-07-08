@@ -1,0 +1,13 @@
+{
+	"name": "bfinlay/laravel-excel-seeder-test-data",
+	"description": "Test data for laravel-excel-seeder",
+	"homepage": "https://github.com/bfinlay/laravel-excel-seeder-test-data",
+	"authors": [
+		{
+			"name": "Brion Finlay"
+		}
+	],
+	"keywords": [ "laravel", "csv", "excel", "seed", "seeds", "seeder", "seeding", "open", "libre", "office", "openoffice", "libreoffice"],
+	"license": "MIT",
+	"minimum-stability": "dev"
+}
